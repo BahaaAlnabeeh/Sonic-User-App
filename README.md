@@ -11,6 +11,8 @@ Sign Up & Sign In Screens
 
 ![White – 7](https://user-images.githubusercontent.com/42490211/236930289-b177561d-9faa-490d-b0fb-cc0e24c45017.jpg)
 
+Main Screens
+
 ![White – 8](https://user-images.githubusercontent.com/42490211/236932218-7daddd2c-e0c3-4c0c-8194-7f9f8c98517b.jpg)
 
 ![White – 9](https://user-images.githubusercontent.com/42490211/236932835-22380919-066c-4c02-a0a6-a6ef49df7e5b.jpg)
