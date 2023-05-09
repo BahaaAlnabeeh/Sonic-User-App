@@ -19,9 +19,9 @@ Main Screens
 
 ![White – 18](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/39748de6-a192-4d71-917d-79997b3fc169)
 
-![White – 17](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/171cc50c-107b-42be-8c8e-32700e69293e)
+![White – 17](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/ce1cc2ac-5be5-47da-8957-92f1a2a855b7)
 
-![White – 15](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/5023d701-a002-46a0-a688-7a612266d891)
+![White – 15](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/a92e5c8f-40c5-47bf-82af-376957c2111c)
 
 ![White – 8](https://user-images.githubusercontent.com/42490211/236932218-7daddd2c-e0c3-4c0c-8194-7f9f8c98517b.jpg)
 
