@@ -13,7 +13,7 @@ Sign Up & Sign In Screens
 
 Main Screens
 
-![White – 11](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/73c323c7-f700-4621-a468-58c5a01c58f4)
+![White – 11](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/422f6fee-c317-4bde-a264-0457e30660f1)
 
 ![White – 12](https://github.com/BahaaAlnabeeh/Sonic-User-App/assets/42490211/38c7b0ed-650b-4cb5-947a-ee769c135cca)
 
