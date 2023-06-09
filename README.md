@@ -1,7 +1,27 @@
 # Sonic-User-App
-The main idea is a multi-vendor app It consists of 2 applications interconnected with each other, an application for the user and an application for the driver.
 
-For More Details and see apk of this application, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+Sonic is a distinctive and integrated delivery system that includes two applications: the Sonic-User App and the Sonic-Driver App.
+
+The Sonic-User App is developed for users and contains multi-vendor stores, allowing users to place orders. 
+The application was developed using Flutter framework and linked with APIs to make it available for both Android and iOS systems.
+
+Key features of the application include:
+* Before placing any order, users must select their location on the map to display nearby stores.
+
+* The ability to search for a store or a specific product and view detailed information about each product.
+* Apply coupons and offers to get discounts.
+* The ability to add a product to favorites or the cart.
+* Show the estimated delivery time for the user's order based on the distance between the driver, the customer, and the vendor.
+
+* The ability to display advertisements within the application for store owners.
+
+* The application supports multi-languages.
+
+* Access to delivery services through the Sonic-Driver App, where you can find details about it app in my portfolio.
+
+* Contains FCM notifications. 
+
+For more exclusive features and to download the application on your phone, feel free to contact me.
 
 User App Screens
 
