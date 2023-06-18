@@ -5,7 +5,7 @@ Sonic is a distinctive and integrated delivery system that includes two applicat
 The Sonic-User App is developed for users and contains multi-vendor stores, allowing users to place orders. 
 The application was developed using Flutter framework and linked with APIs to make it available for both Android and iOS systems.
 
-Key features of the application include:
+Key features of the application include: 
 * Before placing any order, users must select their location on the map to display nearby stores.
 
 * The ability to search for a store or a specific product and view detailed information about each product.
